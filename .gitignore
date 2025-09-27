@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Logs
+*.log
+logs/
+
+# Configuración sensible
+appsettings.Development.json
+.env
